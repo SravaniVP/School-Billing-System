@@ -1,0 +1,173 @@
+#main-wrapper{
+   margin-top:50px;
+   width:1400px;
+   margin:0 auto;
+   background:white;
+   padding:5px;
+   border-radius:10px;
+   border:4px solid #2c3e50;
+
+}
+.icon{
+
+width:500px;
+text-align:center;
+border-radius:100%;
+}
+ 
+
+.avatar{
+
+width:500px;
+text-align:center;
+border-radius:100%;
+}
+.s{
+
+width:10px;
+text-align:center;
+border-radius:100%;
+}
+
+.myform{
+width:450px;
+margin:0 auto;
+}
+.inputvalues{
+width:97%;
+margin:0 auto;
+padding:5px;
+ border:1px solid #2c3e50;
+
+}
+#admin_btn{
+margin-bottom:100px;
+margin-top:10px;
+background-color:#009432;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+border-radius:10px;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+#login_btn{
+
+margin-top:10px;
+background-color:#009432;
+padding:5px;
+color:white;
+width:100%;
+border-radius:10px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+
+}
+#register_btn{
+margin-bottom:100px;
+margin-top:10px;
+background-color:#009432;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+border-radius:10px;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+
+#SignUp_btn{
+margin-bottom:10px;
+margin-top:10px;
+background-color:#009432;
+padding:5px;
+color:white;
+width:100%;
+text-align:center;
+font-size:18px;
+border-radius:10px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+#ADD_btn{
+
+margin-top:10px;
+background-color:#009432;
+padding:5px;
+color:white;
+width:100%;
+border-radius:10px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+
+#Back_btn{
+margin-bottom
+margin-top:10px;
+background-color:#d35400;
+padding:5px;
+color:white;
+width:100%;
+border-radius:10px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+#teacher_btn{
+margin-bottom:20px;
+margin-top:10px;
+background-color:#009432;
+padding:5px;
+color:white;
+width:100%;
+border-radius:10px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+#student_btn{
+margin-bottom:20px;
+margin-top:10px;
+background-color:#009432;
+padding:5px;
+color:white;
+width:100%;
+border-radius:10px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+
+#Logout_btn{
+margin-bottom:40px;
+margin-top:10px;
+background-color:#F79F1F;
+padding:5px;
+color:white;
+width:100%;
+border-radius:10px;
+text-align:center;
+font-size:18px;
+font-weight:bold;
+ border:1px solid #2c3e50;
+}
+
+
+
+
+
+
+
+
+
+
